@@ -11,7 +11,7 @@ Tell the plugin "Disqus Comment System" to use the site language.
 
 == Description ==
 
-**Diskus Language** tells the Disqus Comment System to use the site language instead of the default English. This is a very simple plugin, no configuration required.
+**Disqus Language** tells the Disqus Comment System to use the site language instead of the default English. This is a very simple plugin, no configuration required.
 
 == Installation ==
 
