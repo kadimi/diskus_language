@@ -3,7 +3,7 @@
 /*
 Plugin Name: Disqus language
 Plugin URI: http://www.kadimi.com/en
-Description: Tell Disqus to use the site language instead of the default English
+Description: Tell the plugin "Disqus Comment System" to use the site language.
 Version: 0.1
 Author: Nabil Kadimi
 Author Email: nabil@kadimi.com
